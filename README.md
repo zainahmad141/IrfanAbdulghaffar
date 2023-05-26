@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanabdulghaffar&label=Profile%20views&color=0e75b6&style=flat" alt="irfanabdulghaffar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfanabdulghaffar" alt="irfanabdulghaffar" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfanabdulghaffar" alt="irfanabdulghaffar" /></a> </p> -->
 
 - 🔭 I’m currently working on [Wedding kards](https://play.google.com/store/apps/details?id=com.schuja.weddingcard)
 
